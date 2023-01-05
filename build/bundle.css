@@ -1,0 +1,126 @@
+main.svelte-fbqxay{text-align:center;padding:1em;margin:0 auto}h1.svelte-fbqxay{font-size:4em;font-weight:bold;margin:10px auto 0}.title-label-wrapper.svelte-fbqxay{margin-top:50px}.title-label.svelte-fbqxay{background-color:#ffeb3b;font-family:"Roboto", sans-serif;font-size:25px;font-weight:700;padding:6px 15px;border-radius:17px}h2.header.svelte-fbqxay{text-align:left;margin:50px auto 25px auto;font-size:34px;color:#121212;max-width:600px;font-weight:600;padding:0 20px}h4.sub-title.svelte-fbqxay{margin:10px auto;font-weight:200;font-size:20px}.lead-paragrah.svelte-fbqxay{text-align:left;max-width:600px;font-size:24px;line-height:1.4;font-weight:600;margin:30px auto}img.svelte-fbqxay{width:100%;max-width:1000px;margin-top:50px}img.middle.svelte-fbqxay{max-width:600px;margin-bottom:50px}.img-credit.svelte-fbqxay{font-size:15px;line-height:18px;color:#888;margin-bottom:20px}.paragraph.svelte-fbqxay{text-align:left;max-width:600px;font-size:22px;line-height:30px;margin:0 auto 15px}.twitter-embed.svelte-fbqxay{margin:30px auto;max-width:550px}.pub-date.svelte-fbqxay{font-family:"Roboto", sans-serif;padding:30px 0}@media screen and (max-width: 480px){main.svelte-fbqxay{padding:0}h1.svelte-fbqxay{font-size:45px;margin-top:16px}h2.header.svelte-fbqxay{text-align:left;margin:50px auto 25px;font-size:34px;color:#121212;max-width:600px;font-weight:600;padding:0 20px}.lead-paragrah.svelte-fbqxay,.paragraph.svelte-fbqxay{font-size:20px;padding:10px 16px}.twitter-embed.svelte-fbqxay{margin:30px 16px}}.svelte-pdmccs.svelte-pdmccs{box-sizing:border-box}img.svelte-pdmccs.svelte-pdmccs{position:absolute;width:100%;left:0;opacity:0;visibility:hidden;transition:0.8s}.visible.svelte-pdmccs.svelte-pdmccs{opacity:1;visibility:visible}[slot="background"].svelte-pdmccs.svelte-pdmccs{background-color:none;height:100vh;margin:auto;justify-content:center;align-items:center}[slot="background"].svelte-pdmccs .background-container.svelte-pdmccs{position:relative;font-size:1.4em;overflow:hidden;padding:0;height:500px;margin:100px auto;width:100%;max-width:700px}[slot="foreground"].svelte-pdmccs.svelte-pdmccs{pointer-events:none}[slot="foreground"].svelte-pdmccs section.svelte-pdmccs{pointer-events:all}section.svelte-pdmccs.svelte-pdmccs{height:100vh;background-color:rgba(#1d191b, 0.5);color:black;padding:0;margin:0 auto}.paragraph.svelte-pdmccs.svelte-pdmccs{text-align:left;max-width:600px;font-size:22px;background:rgba(255,255,255,.8);line-height:30px;margin:auto;padding:24px 30px}@media screen and (max-width: 480px){.paragraph.svelte-pdmccs.svelte-pdmccs{font-size:20px}}.svelte-pdmccs.svelte-pdmccs{box-sizing:border-box}img.svelte-pdmccs.svelte-pdmccs{position:absolute;width:100%;left:0;opacity:0;visibility:hidden;transition:0.8s}.visible.svelte-pdmccs.svelte-pdmccs{opacity:1;visibility:visible}[slot="background"].svelte-pdmccs.svelte-pdmccs{background-color:none;height:100vh;margin:auto;justify-content:center;align-items:center}[slot="background"].svelte-pdmccs .background-container.svelte-pdmccs{position:relative;font-size:1.4em;overflow:hidden;padding:0;height:500px;margin:100px auto;width:100%;max-width:700px}[slot="foreground"].svelte-pdmccs.svelte-pdmccs{pointer-events:none}[slot="foreground"].svelte-pdmccs section.svelte-pdmccs{pointer-events:all}section.svelte-pdmccs.svelte-pdmccs{height:100vh;background-color:rgba(#1d191b, 0.5);color:black;padding:0;margin:0 auto}.paragraph.svelte-pdmccs.svelte-pdmccs{text-align:left;max-width:600px;font-size:22px;background:rgba(255,255,255,.8);line-height:30px;margin:auto;padding:24px 30px}@media screen and (max-width: 480px){.paragraph.svelte-pdmccs.svelte-pdmccs{font-size:20px}}.svelte-pdmccs.svelte-pdmccs{box-sizing:border-box}img.svelte-pdmccs.svelte-pdmccs{position:absolute;width:100%;left:0;opacity:0;visibility:hidden;transition:0.8s}.visible.svelte-pdmccs.svelte-pdmccs{opacity:1;visibility:visible}[slot="background"].svelte-pdmccs.svelte-pdmccs{background-color:none;height:100vh;margin:auto;justify-content:center;align-items:center}[slot="background"].svelte-pdmccs .background-container.svelte-pdmccs{position:relative;font-size:1.4em;overflow:hidden;padding:0;height:500px;margin:100px auto;width:100%;max-width:700px}[slot="foreground"].svelte-pdmccs.svelte-pdmccs{pointer-events:none}[slot="foreground"].svelte-pdmccs section.svelte-pdmccs{pointer-events:all}section.svelte-pdmccs.svelte-pdmccs{height:100vh;background-color:rgba(#1d191b, 0.5);color:black;padding:0;margin:0 auto}.paragraph.svelte-pdmccs.svelte-pdmccs{text-align:left;max-width:600px;font-size:22px;background:rgba(255,255,255,.8);line-height:30px;margin:auto;padding:24px 30px}@media screen and (max-width: 480px){.paragraph.svelte-pdmccs.svelte-pdmccs{font-size:20px}}svelte-scroller-outer.svelte-xdbafy{display:block;position:relative}svelte-scroller-background.svelte-xdbafy{display:block;position:relative;width:100%}svelte-scroller-foreground.svelte-xdbafy{display:block;position:relative;z-index:2}svelte-scroller-foreground.svelte-xdbafy::after{content:' ';display:block;clear:both}svelte-scroller-background-container.svelte-xdbafy{display:block;position:absolute;width:100%;max-width:100%;pointer-events:none;will-change:transform}/* roboto-cyrillic-ext-400-normal*/
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-cyrillic-ext-400-normal.woff2') format('woff2'), url('./files/roboto-all-400-normal.woff') format('woff');
+  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
+}
+/* roboto-cyrillic-400-normal*/
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-cyrillic-400-normal.woff2') format('woff2'), url('./files/roboto-all-400-normal.woff') format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+/* roboto-greek-ext-400-normal*/
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-greek-ext-400-normal.woff2') format('woff2'), url('./files/roboto-all-400-normal.woff') format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* roboto-greek-400-normal*/
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-greek-400-normal.woff2') format('woff2'), url('./files/roboto-all-400-normal.woff') format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* roboto-vietnamese-400-normal*/
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-vietnamese-400-normal.woff2') format('woff2'), url('./files/roboto-all-400-normal.woff') format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;
+}
+/* roboto-latin-ext-400-normal*/
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-latin-ext-400-normal.woff2') format('woff2'), url('./files/roboto-all-400-normal.woff') format('woff');
+  unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+/* roboto-latin-400-normal*/
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-latin-400-normal.woff2') format('woff2'), url('./files/roboto-all-400-normal.woff') format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/* roboto-slab-cyrillic-ext-400-normal*/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-slab-cyrillic-ext-400-normal.woff2') format('woff2'), url('./files/roboto-slab-all-400-normal.woff') format('woff');
+  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
+}
+/* roboto-slab-cyrillic-400-normal*/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-slab-cyrillic-400-normal.woff2') format('woff2'), url('./files/roboto-slab-all-400-normal.woff') format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+/* roboto-slab-greek-ext-400-normal*/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-slab-greek-ext-400-normal.woff2') format('woff2'), url('./files/roboto-slab-all-400-normal.woff') format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* roboto-slab-greek-400-normal*/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-slab-greek-400-normal.woff2') format('woff2'), url('./files/roboto-slab-all-400-normal.woff') format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* roboto-slab-vietnamese-400-normal*/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-slab-vietnamese-400-normal.woff2') format('woff2'), url('./files/roboto-slab-all-400-normal.woff') format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;
+}
+/* roboto-slab-latin-ext-400-normal*/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-slab-latin-ext-400-normal.woff2') format('woff2'), url('./files/roboto-slab-all-400-normal.woff') format('woff');
+  unicode-range: U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+/* roboto-slab-latin-400-normal*/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./files/roboto-slab-latin-400-normal.woff2') format('woff2'), url('./files/roboto-slab-all-400-normal.woff') format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
